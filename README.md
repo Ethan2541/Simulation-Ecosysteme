@@ -1,7 +1,7 @@
 # Simulation Ecosystème
 
 ## Objectif
-Ce projet a été réalisé dans le cadre du module `LU2IN018` à _Sorbonne Université_. Il consiste en simuler l'activité de proies et de prédateurs dans un environnement considéré torique.
+Ce projet a été réalisé dans le cadre du module `LU2IN018 - C Avancé` à _Sorbonne Université_. Il consiste en simuler l'activité de proies et de prédateurs dans un environnement considéré torique.
 
 ## Fonctionnement
 - Tous les animaux peuvent se déplacer d'une case à chaque étape de la simulation, et meurent s'ils sont à court d'énergie.
